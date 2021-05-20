@@ -6,7 +6,7 @@ I used the data directly from my google drive for training and testing.
 I also created a pandas profiling html page.
 The overview page is very large in size. Attached the same in the mail with the link to this repository.
 
-<img src="./myimage.jpg">
+<img src="./overview.jpg">
 
 In the notebook you can find 
 
